@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Nike Stefan Janoskis",
+        "img": "img ref link",
+        "inventory": 2,
+        "description": "Built to kick-push or kick-it with friends",
+        "price": 74.99
+    },
+    {
+        "id": 2,
+        "name": "Air Jordan",
+        "img": "img ref link",
+        "inventory": 3,
+        "description": "like Mike",
+        "price": 100
+    },
+    {
+        "id": 3,
+        "name": "Crocs Post Malone Limited edition",
+        "img": "img ref link",
+        "inventory": 7,
+        "description": "Built by Post, for you",
+        "price": 50
+    },
+    {
+        "id": 4,
+        "name":  "Reebok Pumps",
+        "img": "img ref link",
+        "inventory": 3,
+        "description": "Pump-it, pump-it real good",
+        "price": 110
+    },
+    {
+        "id": 5,
+        "name": "Sperry Boat Shoes",
+        "img": "img ref link",
+        "inventory": 6,
+        "description": "Does not mean I know where the stern is...",
+        "price": 60
+    },
+    {
+        "id": 6,
+        "name": "Nike Air Max 360",
+        "img": "img ref link",
+        "inventory": 3,
+        "description": "Ruun Forest Ruun",
+        "price": 130
+    }
+    ]
+    
